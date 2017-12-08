@@ -1,4 +1,4 @@
-require('dotenv').config();
+// require('dotenv').config();
 
 var gulp        = require('gulp');
 var browserSync = require('browser-sync');
@@ -41,11 +41,11 @@ gulp.task('jekyll-rebuild', ['jekyll-build'], function () {
 /**
  * Wait for jekyll-build, then launch the Server
  */
-gulp.task('browser-sync', ['sass', 'jekyll-build'], function() {
+gulp.task('browser-sync', ['sass', 'jekyll-rebuild'], function() {
     browserSync({
         server: {
             baseDir: '_site',
-            injectChanges: true
+            // injectChanges: true
         }
     });
 
@@ -66,14 +66,14 @@ gulp.task('compress', function(cb) {
     pump([
             gulp.src('src/build/*.js'),
             uglify(),
-            gulp.dest('js')
+            gulp.dest('assets/js')
         ],
         cb
     );
 });
 
 gulp.task('imagemin', function(){
-  return gulp.src(['img/**/*.{gif,png,jpg}'])
+  return gulp.src(['assets/**/*.{gif,png,jpg}'])
         .pipe(imagemin([
             //png
             imageminPngquant({
@@ -122,7 +122,7 @@ gulp.task('sass', function () {
             onError: browserSync.notify,
             outputStyle: 'compressed'
         }))
-        .pipe(gulp.dest('assets/main.css'))
+        .pipe(gulp.dest('assets/css'))
         .pipe(gulp.dest('css'))
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(browserSync.reload({stream:true}));
@@ -137,7 +137,7 @@ gulp.task('watch', function () {
     gulp.watch('_sass/*.scss', ['sass']);
     gulp.watch('src/*.js', ['scripts', 'compress']);
     gulp.watch(['*.html', '**/*.md', 'tests/*.js', '_includes/**/*.html', '_layouts/*.html', 'js/*.js', '_posts/*', '_institutes/*'], ['jekyll-rebuild']);
-    gulp.watch('img/**/*.{gif,png,jpg}', 'imagemin');
+    gulp.watch('assets/**/*.{gif,png,jpg}', ['imagemin']);
 
 });
 
