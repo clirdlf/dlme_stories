@@ -1,0 +1,45 @@
+{
+  "name": "DLME Exhibits",
+  "version": "1.0.0",
+  "description": "automation for NDSA site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clirdlf/ndsa.org.git"
+  },
+  "author": "CLIR/DLF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clirdlf/ndsa.org/issues"
+  },
+  "homepage": "http://ndsa.org",
+  "dependencies": {
+    "bootstrap-table": "^1.9.1",
+    "browser-sync": "^2.18.6",
+    "feedek": "https://github.com/waynegraham/FeedEk/tarball/master",
+    "jquery-sticky": "^1.0.3",
+    "jquery.easing": "^1.3.2",
+    "leaflet": "^0.7.7",
+    "smoothscroll-for-websites": "^1.4.1",
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "dotenv": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-include": "^2.3.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "imagemin-giflossy": "^5.1.10",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "imagemin-zopfli": "^5.1.0",
+    "node-sass": "^3.10.1",
+    "pump": "^1.0.1"
+  }
+}
