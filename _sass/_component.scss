@@ -1128,7 +1128,8 @@ button.trigger span::before {
 	left: 0;
 	height: 50%;
 	width: 25%;
-	background-image: url(../img/thumbs/1.jpg);
+	// background-image: url(../images/thumbs/1.jpg);
+	background-image: url('https://source.unsplash.com/480x320/?syria');
 }
 
 .intro-effect-grid .grid li:nth-child(2) {
@@ -1136,7 +1137,8 @@ button.trigger span::before {
 	left: 0;
 	height: 50%;
 	width: 25%;
-	background-image: url(../img/thumbs/2.jpg);
+	// background-image: url(../images/thumbs/2.jpg);
+	background-image: url('https://source.unsplash.com/480x287/?iraq');
 }
 
 .intro-effect-grid .grid li:nth-child(3) {
@@ -1144,7 +1146,8 @@ button.trigger span::before {
 	left: 25%;
 	height: 100%;
 	width: 25%;
-	background-image: url(../img/thumbs/5.jpg);
+	// background-image: url(../images/thumbs/5.jpg);
+	background-image: url('https://source.unsplash.com/478x480/?qatar');
 }
 
 .intro-effect-grid .grid li:nth-child(4) {
@@ -1152,7 +1155,8 @@ button.trigger span::before {
 	left: 50%;
 	height: 50%;
 	width: 50%;
-	background-image: url(../img/thumbs/4.jpg);
+	// background-image: url(../images/thumbs/4.jpg);
+	background-image: url('https://source.unsplash.com/965x350/?iran');
 }
 
 .intro-effect-grid .grid li:nth-child(5) {
@@ -1160,7 +1164,8 @@ button.trigger span::before {
 	left: 50%;
 	height: 50%;
 	width: 25%;
-	background-image: url(../img/thumbs/8.jpg);
+	// background-image: url(../images/thumbs/8.jpg);
+	background-image: url('https://source.unsplash.com/489x260/?egypt');
 	-webkit-transform: scale(0);
 	transform: scale(0);
 	opacity: 0;
@@ -1181,7 +1186,8 @@ button.trigger span::before {
 	left: 75%;
 	height: 50%;
 	width: 25%;
-	background-image: url(../img/thumbs/6.jpg);
+	// background-image: url(../images/thumbs/6.jpg);
+	background-image: url('https://source.unsplash.com/480x320/?mosque');
 }
 
 .intro-effect-grid.modify .bg-img {
