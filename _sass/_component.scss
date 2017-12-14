@@ -2,12 +2,14 @@
 // 	font-weight: normal;
 // 	font-style: normal;
 // 	font-family: 'icomoon';
-// 	src:url('../fonts/icomoon/icomoon.eot?-ee0u0f');
-// 	src:url('../fonts/icomoon/icomoon.eot?#iefix-ee0u0f') format('embedded-opentype'),
-// 		url('../fonts/icomoon/icomoon.woff?-ee0u0f') format('woff'),
-// 		url('../fonts/icomoon/icomoon.ttf?-ee0u0f') format('truetype'),
-// 		url('../fonts/icomoon/icomoon.svg?-ee0u0f#icomoon') format('svg');
+// 	src:url('/assets/fonts/icomoon/icomoon.eot?-ee0u0f');
+// 	src:url('/assets/fonts/icomoon/icomoon.eot?#iefix-ee0u0f') format('embedded-opentype'),
+// 		url('/assets/fonts/icomoon/icomoon.woff?-ee0u0f') format('woff'),
+// 		url('/assets/fonts/icomoon/icomoon.ttf?-ee0u0f') format('truetype'),
+// 		url('/assets/fonts/icomoon/icomoon.svg?-ee0u0f#icomoon') format('svg');
 // }
+
+@import 'https://i.icomoon.io/public/temp/bab56b7eb0/UntitledProject/style.css';
 
 html, body, .container, .header {
 	height: 100%;
@@ -141,7 +143,8 @@ button.trigger span::before {
 	width: 100%;
 	height: 100%;
 	color: #fff;
-	content: "\e097";
+	// content: "\e097";
+	content: "\ea3e";
 	text-transform: none;
 	font-weight: normal;
 	font-style: normal;
