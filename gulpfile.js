@@ -125,7 +125,8 @@ gulp.task('sass', function () {
         .pipe(gulp.dest('assets/css'))
         // .pipe(gulp.dest('css'))
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
-        .pipe(browserSync.reload({stream:true}));
+        .pipe(browserSync.stream());
+        // .pipe(browserSync.reload({stream:true}));
         // .pipe(gulp.dest('css'));
 });
 
