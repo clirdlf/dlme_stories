@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <name> -- <role> -- <twitter>
+
+# THANKS
+
+    - Mary Lou (https://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/)
+
+# Photographs
+
+    - Cracked by Matt Artz (https://unsplash.com/photos/oSly6rQh7YA)
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    GitHub Pages
+    Gulp, Sass
+    Normalize.css

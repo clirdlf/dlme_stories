@@ -130,8 +130,8 @@ button.trigger span::before {
 	width: 100%;
 	height: 100%;
 	color: #fff;
-	// content: "\e097";
-	content: "\ea3e";
+	content: "\e097";
+	// content: "\ea3e";
 	text-transform: none;
 	font-weight: normal;
 	font-style: normal;
@@ -1117,6 +1117,7 @@ button.trigger span::before {
 	transform: translateY(-10px);
 }
 
+// Background images
 .intro-effect-grid .grid li:first-child {
 	top: 0;
 	left: 0;
@@ -1124,8 +1125,10 @@ button.trigger span::before {
 	// width: 25%;
 	width: 50%;
 	left: 50%;
-	// background-image: url(../images/thumbs/1.jpg);
-	background-image: url('https://source.unsplash.com/480x320/?syria');
+	// pearl diving
+	background-image: url('/images/qnl-pearl-square.jpg');
+
+	// background-image: url('https://source.unsplash.com/480x320/?syria');
 }
 
 .intro-effect-grid .grid li:nth-child(2) {
@@ -1134,6 +1137,7 @@ button.trigger span::before {
 	height: 50%;
 	width: 50%;
 	// background-image: url(../images/thumbs/2.jpg);
+
 	background-image: url('https://source.unsplash.com/480x287/?iraq');
 }
 
@@ -1143,7 +1147,8 @@ button.trigger span::before {
 	height: 100%;
 	width: 50%;
 	// background-image: url(../images/thumbs/5.jpg);
-	background-image: url('https://source.unsplash.com/478x480/?qatar');
+	background-image: url('/images/waraksa-square.jpg');
+	// background-image: url('https://source.unsplash.com/478x480/?qatar');
 }
 
 // not used (yet)

@@ -20,6 +20,16 @@
 	font-family: 'Raleway', Arial, sans-serif;
 }
 
+header {
+	a {
+		color: #fff;
+		// TODO background?
+		&:hover {
+			color: #f68f6c;
+		}
+	}
+}
+
 .raid {
 	background: #181922;
 	color: #fff;

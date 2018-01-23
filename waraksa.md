@@ -1,15 +1,15 @@
 ---
 layout: exhibit
 title: Piecing Together the Ritual Use of Egyptian Female Figurines
-background_url: https://source.unsplash.com/1200x800/?egypt
-subline: Is this needed?
+background_url: /images/waraksa-cover.jpg 
+subline:
 author: Elizabeth Waraksa
 permalink: /waraksa/
 ---
 
 ## Intro
 
-[Figurines of nude females](http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz000s3mm6) are known from most periods of Pharaonic Egyptian history and occur in a variety of archaeological contexts, from houses, temples, and tombs in the Nile Valley to cemeteries in the western oases, mining sites in the Eastern Desert and Sinai Peninsula, and Nubian forts.
+[Figurines of nude females](https://escholarship.org/uc/item/4dg0d57b) are known from most periods of Pharaonic Egyptian history and occur in a variety of archaeological contexts, from houses, temples, and tombs in the Nile Valley to cemeteries in the western oases, mining sites in the Eastern Desert and Sinai Peninsula, and Nubian forts.
 
 [need good digital map of pharaonic Egypt - could use this one https://spotlight.dlme.clir.org/library/catalog/stanford_vj873xk9564] Often, female figurines derive from refuse zones in proximity to these areas. Formerly interpreted as “concubine” figures, pharaonic Egyptian female figurines are now understood to be components of a range of magico-medical rites designed to preserve bodily health through protection and healing.
 

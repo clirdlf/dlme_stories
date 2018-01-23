@@ -15,7 +15,7 @@ layout: home
 	</figure>
 
   <figure class="effect-layla">
-		<img src="https://source.unsplash.com/482x362/?egypt" alt="img01"/>
+		<img src="/images/waraksa-thumb.jpg" alt="Photo by Matt Artz"/>
 		<figcaption>
 			<h2>Piecing Together the Ritual Use of Egyptian <span>Female Figurines</span></h2>
 			<p>lorem ipsum</p>
@@ -24,7 +24,7 @@ layout: home
 	</figure>
 
   <figure class="effect-layla">
-		<img src="https://source.unsplash.com/482x362/?pearl" alt="img01"/>
+		<img src="/images/qnl-pearl.jpg" alt="Arab pearl-divers at work in the Persian Gulf"/>
 		<figcaption>
 			<h2>Pearl Diving</h2>
 			<p>lorem ipsum</p>
