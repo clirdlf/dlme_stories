@@ -1,3 +1,4 @@
+require 'colorize'
 require 'fileutils'
 
 task default: %w(convert:all)
@@ -16,16 +17,18 @@ namespace :convert do
   task :all => [:rename, :all_sizes]
 
   task :all_sizes do
+
+    puts "Generating deravative images".green
     Dir.glob('originals/*').each do |image|
       @sizes.each do |name, size|
         basename = File.basename(image, ".*")
         fname = "#{basename}-#{name}-#{size}#{File.extname(image)}"
-        puts "Generating #{fname}"
+        puts "\tGenerating #{fname}".yellow
         `convert #{image} -resize #{size} images/#{fname}`
       end
     end
 
-    puts "Running image minification"
+    puts "Running image minification".green
     `gulp imagemin`
   end
 
