@@ -108,8 +108,8 @@ gulp.task('imagemin', function(){
             imageminMozjpeg({
                 quality: 90
             })
-        ]));
-        // .pipe(gulp.dest('lib'));
+        ]))
+        .pipe(gulp.dest('images'));
 });
 
 /**
