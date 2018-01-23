@@ -6,7 +6,7 @@ layout: home
 ---
 <div class="grid">
   <figure class="effect-layla">
-		<img src="https://source.unsplash.com/482x362/?iraq" alt="img01"/>
+		<img src="/images/bent-pyramid-thumb.jpg" alt="img01"/>
 		<figcaption>
 			<h2>How the Digital Library of the Middle East Aids in Cultural Heritage Preservation</h2>
 			<p>lorem ipsum</p>
