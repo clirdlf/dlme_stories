@@ -73,7 +73,7 @@ gulp.task('compress', function(cb) {
 });
 
 gulp.task('imagemin', function(){
-  return gulp.src(['assets/**/*.{gif,png,jpg}'])
+  return gulp.src(['assets/**/*.{gif,png,jpg}', 'images/**/*.{gif,png,jpg}'])
         .pipe(imagemin([
             //png
             imageminPngquant({
