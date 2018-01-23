@@ -1,5 +1,4 @@
 <footer>
-  footer
 </footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js"></script>
 <script src="{{ "/assets/js/scripts.js"| prepend: site.baseurl }}"></script>
@@ -9,7 +8,7 @@
   "@context": "http://schema.org",
   "@type": "WebPage",
   "name": "{{ page.title }}",
-  "description": "{{ page.content | strip_html | xml_escape | truncate: 200 }}",
+  "description": "{{ page.content | strip_html | xml_escape | truncate: 200 | strip }}",
   "publisher": {
     "@type": "EducationalOrganization",
     "name": "Digital Library of the Middle East"
