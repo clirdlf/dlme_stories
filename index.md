@@ -15,7 +15,7 @@ layout: home
 	</figure>
 
   <figure class="effect-layla">
-		<img src="/images/waraksa-thumb.jpg" alt="Photo by Matt Artz"/>
+		<img src="/images/katherine-hanlon-24210-landing-480x360.jpg" alt="Photo by Matt Artz"/>
 		<figcaption>
 			<h2>Piecing Together the Ritual Use of Egyptian <span>Female Figurines</span></h2>
 			<a href="{{ '/waraksa/' | prepend: site.url }}">Read More</a>

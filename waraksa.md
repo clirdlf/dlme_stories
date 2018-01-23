@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: Piecing Together the Ritual Use of Egyptian Female Figurines
-background_url: /images/waraksa-cover.jpg 
+background_url: /images/katherine-hanlon-24210-cover-1200x800.jpg 
 subline:
 author: Elizabeth Waraksa
 permalink: /waraksa/
