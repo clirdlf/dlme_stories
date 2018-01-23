@@ -1121,25 +1121,27 @@ button.trigger span::before {
 	top: 0;
 	left: 0;
 	height: 50%;
-	width: 25%;
+	// width: 25%;
+	width: 50%;
+	left: 50%;
 	// background-image: url(../images/thumbs/1.jpg);
 	background-image: url('https://source.unsplash.com/480x320/?syria');
 }
 
 .intro-effect-grid .grid li:nth-child(2) {
 	top: 50%;
-	left: 0;
+	left: 50%;
 	height: 50%;
-	width: 25%;
+	width: 50%;
 	// background-image: url(../images/thumbs/2.jpg);
 	background-image: url('https://source.unsplash.com/480x287/?iraq');
 }
 
 .intro-effect-grid .grid li:nth-child(3) {
 	top: 0;
-	left: 25%;
+	left: 0;
 	height: 100%;
-	width: 25%;
+	width: 50%;
 	// background-image: url(../images/thumbs/5.jpg);
 	background-image: url('https://source.unsplash.com/478x480/?qatar');
 }
