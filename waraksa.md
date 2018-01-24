@@ -35,7 +35,7 @@ Several Pharaonic Egyptian spells that were to be recited during rituals of prot
 </blockquote>
 
 
-These spells, together with the excavation of [female figurines as part of a magician’s kit](https://egyptmanchester.wordpress.com/2012/03/15/object-biography-3-a-female-figurine-from-the-magicians-tomb-acc-no-1790/), suggest that the owners and users of Pharaonic female figurines were literate healers who had the ability to acquire a figurine from a workshop producing these standardized objects, the skills the read the appropriate spells over the figurine, and a knowledge of so-called [execration rituals](http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz000s3mqr ), which would facilitate the knowledge that many figurines utilized in healing rituals - especially ones of transference, like the one described above - would best be broken and/or discarded at the end of their useful “life."
+These spells, together with the excavation of [female figurines as part of a magician’s kit](https://egyptmanchester.wordpress.com/2012/03/15/object-biography-3-a-female-figurine-from-the-magicians-tomb-acc-no-1790/), suggest that the owners and users of Pharaonic female figurines were literate healers who had the ability to acquire a figurine from a workshop producing these standardized objects, the skills the read the appropriate spells over the figurine, and a knowledge of so-called [execration rituals](https://escholarship.org/uc/item/3f6268zf), which would facilitate the knowledge that many figurines utilized in healing rituals - especially ones of transference, like the one described above - would best be broken and/or discarded at the end of their useful “life."
 
 ## Female Figurines from Neighboring Cultures
 

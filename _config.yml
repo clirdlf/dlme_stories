@@ -24,7 +24,7 @@ url: "http://stories.dlme.clir.org" # the base hostname & protocol for your site
 twitter_username: clirdlf
 github_username:  clirdlf
 
-google-tracking-id:
+google-tracking-id: UA-101351510-3
 
 # Build settings
 markdown: kramdown
