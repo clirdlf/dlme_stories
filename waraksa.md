@@ -3,7 +3,7 @@ layout: exhibit
 title: Piecing Together the Ritual Use of Egyptian Female Figurines
 background_url: /images/katherine-hanlon-24210-cover-1200x800.jpg
 subline:
-author: Elizabeth Waraksa
+author: Elizabeth A. Waraksa
 permalink: /waraksa/
 ---
 
@@ -24,8 +24,6 @@ Depending on the material of which they were made, female figures were either ca
 Significantly, many Egyptian female figurines show signs of having been deliberately broken prior to their final deposition.
 
 ## Magico-Medical Spells Calling for Female Figurines of Clay
-
-[voice-over reading out e.g. this portion of this Egyptian spell from P. Leiden I 348 in English translation?]
 
 Several Pharaonic Egyptian spells that were to be recited during rituals of protection and healing prescribe the use of a female figurine of clay. For example, this spell to relieve a stomachache, preserved on a papyrus now in Leiden (P. Leiden I 348, rt. 12,2 - 12,4), calls for the words to be spoken over a rpyt nt sjnt - a “female figure of clay” - and for the pain to be transferred into the rpyt Ast or “female figure of Isis.”
 
