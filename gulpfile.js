@@ -45,7 +45,7 @@ gulp.task('browser-sync', ['sass', 'jekyll-rebuild'], function() {
     browserSync({
         server: {
             baseDir: '_site',
-            // injectChanges: true
+            injectChanges: true
         }
     });
 
