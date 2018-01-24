@@ -27,7 +27,12 @@ Significantly, many Egyptian female figurines show [signs of having been deliber
 
 Several Pharaonic Egyptian spells that were to be recited during rituals of protection and healing prescribe the use of a female figurine of clay. For example, this spell to relieve a stomachache, preserved on a [papyrus](http://www.rmo.nl/collectie/zoeken?object=AMS+26a+vel+1) now in Leiden (P. Leiden I 348, rt. 12,2 - 12,4), calls for the words to be spoken over a *rpyt nt sjnt* - a "female figure of clay" - and for the pain to be transferred into the *rpyt Ast* or "female figure of Isis."
 
->4) &lt;his&gt; belly and his suffering will be healed."<sup>125</sup> <u>Words spoken</u> over a female figure<sup>126</sup> of clay. As for any of his suffering in the belly, the affliction shall go down<sup>127</sup> from him<sup>128</sup> into the female figure of Isis until he is healthy.<sup>129</sup>
+<blockquote>
+4) &lt;his&gt; belly and his suffering will be healed."<sup>125</sup> <u>Words spoken</u> over a female figure<sup>126</sup> of clay. As for any of his suffering in the belly, the affliction shall go down<sup>127</sup> from him<sup>128</sup> into the female figure of Isis until he is healthy.<sup>129</sup>
+<footer>
+  <cite>— P. Leiden I 348, rt. 12,2 - 12,4</cite>
+</footer>
+</blockquote>
 
 
 These spells, together with the excavation of [female figurines as part of a magician’s kit](https://egyptmanchester.wordpress.com/2012/03/15/object-biography-3-a-female-figurine-from-the-magicians-tomb-acc-no-1790/), suggest that the owners and users of Pharaonic female figurines were literate healers who had the ability to acquire a figurine from a workshop producing these standardized objects, the skills the read the appropriate spells over the figurine, and a knowledge of so-called [execration rituals](http://digital2.library.ucla.edu/viewItem.do?ark=21198/zz000s3mqr ), which would facilitate the knowledge that many figurines utilized in healing rituals - especially ones of transference, like the one described above - would best be broken and/or discarded at the end of their useful “life."
