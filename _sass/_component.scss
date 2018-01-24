@@ -1,3 +1,14 @@
+@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: 'icomoon';
+	src:url('/assets/fonts/icomoon/icomoon.eot?-ee0u0f');
+	src:url('/assets/fonts/icomoon/icomoon.eot?#iefix-ee0u0f') format('embedded-opentype'),
+		url('/assets/fonts/icomoon/icomoon.woff?-ee0u0f') format('woff'),
+		url('/assets/fonts/icomoon/icomoon.ttf?-ee0u0f') format('truetype'),
+		url('/assets/fonts/icomoon/icomoon.svg?-ee0u0f#icomoon') format('svg');
+}
+
 html, body, .container, .header {
 	height: 100%;
 }
@@ -131,7 +142,6 @@ button.trigger span::before {
 	height: 100%;
 	color: #fff;
 	content: "\e097";
-	// content: "\ea3e";
 	text-transform: none;
 	font-weight: normal;
 	font-style: normal;
