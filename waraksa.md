@@ -28,9 +28,9 @@ Significantly, many Egyptian female figurines show [signs of having been deliber
 Several Pharaonic Egyptian spells that were to be recited during rituals of protection and healing prescribe the use of a female figurine of clay. For example, this spell to relieve a stomachache, preserved on a [papyrus](http://www.rmo.nl/collectie/zoeken?object=AMS+26a+vel+1) now in Leiden (P. Leiden I 348, rt. 12,2 - 12,4), calls for the words to be spoken over a *rpyt nt sjnt* - a "female figure of clay" - and for the pain to be transferred into the *rpyt Ast* or "female figure of Isis."
 
 <blockquote>
-4) &lt;his&gt; belly and his suffering will be healed."<sup>125</sup> <u>Words spoken</u> over a female figure<sup>126</sup> of clay. As for any of his suffering in the belly, the affliction shall go down<sup>127</sup> from him<sup>128</sup> into the female figure of Isis until he is healthy.<sup>129</sup>
+4) <u>Words spoken</u> over a female figure of clay. As for any of his suffering in the belly, the affliction shall go down from him into the female figure of Isis until he is healthy.
 <footer>
-  <cite>— P. Leiden I 348, rt. 12,2 - 12,4</cite>
+  <cite>— P. Leiden I 348, rt. 12,4</cite>
 </footer>
 </blockquote>
 
