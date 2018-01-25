@@ -4,7 +4,7 @@ title: Piecing Together the Ritual Use of Egyptian Female Figurines
 background_url: /images/katherine-hanlon-24210-cover-1200x800.jpg
 subline:
 author: Elizabeth A. Waraksa
-permalink: /waraksa/
+permalink: /piecing-together-the-ritual-use-of-egyptian-female-figurines/
 ---
 
 ## Intro

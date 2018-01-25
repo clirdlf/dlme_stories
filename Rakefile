@@ -10,7 +10,7 @@ namespace :convert do
     landing: "480x360",
     large_square: "480x480",
     exhibit_long: "965x350",
-    exhibit_image: "700"
+    exhibit_image: "845"
   }
 
   desc 'Generate deravative images'
