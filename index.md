@@ -18,7 +18,7 @@ layout: home
 		<img src="/images/katherine-hanlon-24210-landing-480x360.jpg" alt="Photo by Matt Artz"/>
 		<figcaption>
 			<h2>Piecing Together the Ritual Use of Egyptian <span>Female Figurines</span></h2>
-			<a href="{{ 'piecing-together-the-ritual-use-of-egyptian-female-figurines' }}">Read More</a>
+			<a href="{{ '/piecing-together-the-ritual-use-of-egyptian-female-figurines' }}">Read More</a>
 		</figcaption>
 	</figure>
 
@@ -26,7 +26,7 @@ layout: home
 		<!-- <img src="/images/toash-landing-480x360.jpg" alt="العربية: طوّاش مُستعد للغوص في المحرق."/> -->
 		<img src="/images/coming-son-250190_1280-landing-480x360.jpg" alt="Coming Soon"/>
 		<figcaption>
-			<h2>Qatar’s maritime history and heritage</h2>
+			<h2>Qatar’s Maritime History and Heritage</h2>
 			<!-- <a href="{{ '/qatars-maritime-history-and-heritage/' }}">Read More</a> -->
 		</figcaption>
 	</figure>
