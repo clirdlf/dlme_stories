@@ -6,7 +6,7 @@
 - **Landing Thumb**: 480x360
 - **Exhibit Large Square**: 480x480
 - **Exhibit Long**: 965x350
-- **Exhibit Images**: 700x
+- **Exhibit Images**: 845x
 
 For more on sizes, `_component.scss` in the `// Background image` section.  
 
