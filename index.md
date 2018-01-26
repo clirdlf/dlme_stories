@@ -6,16 +6,6 @@
 layout: home
 ---
 
-<div class="container">
-	<header>
-	  <h1>DLME Stories</h1>
-
-	  <p>In response to the tragic displacement of people and losses of life in conflict zones, and to ongoing threats to the cultural heritage of the Middle East through destruction, looting, and illegal trade, the Digital Library of the Middle East (DLME) proposes to federate Middle Eastern collections from around the world, creating a publicly accessible, seamlessly inter-operable digital library of cultural material.</p>
-
-	  <p>Early contributions to the project are helping to test our technical platform and workflows. We look forward to federating the collections of regional partners in our next phase of work. <a href="https://dlme.clir.org/">Learn more</a>.</p>
-	</header>
-
-
 <div class="grid">
   <figure class="effect-layla">
 		<img src="/images/bent-pyramid-thumb.jpg" alt="img01"/>
@@ -49,5 +39,4 @@ layout: home
 			<a href="{{ '/recovering-papyri-with-the-digital-library-of-the-middle-east/' }}">Read More</a>
 		</figcaption>
 	</figure>
-</div>
 </div>
