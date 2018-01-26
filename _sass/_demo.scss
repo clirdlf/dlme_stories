@@ -9,7 +9,8 @@
 		  url('/assets/fonts/codropsicons/codropsicons.svg#codropsicons') format('svg');
 }
 
-$max_width: 900px;
+// $max_width: 900px;
+$max_width: 845px - 10px; // The actual width is 900px - 2.5em - 5px of padding on each side. TODO actually do this calculation
 
 // @see http://embedresponsively.com
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
@@ -34,9 +35,10 @@ header {
 
 
 figure {
-
-
-
+	img.center {
+			margin: 0 auto;
+			display: block;
+	}
 }
 
 .raid {
@@ -47,22 +49,20 @@ figure {
 	position: relative;
 	padding: 3em;
 	// height: 150vh;
-	display: flex;
-	flex-direction: colum;
+	// display: flex;
+	// flex-direction: colum;
 	align-items: center;
 	justify-content: center;
 	margin: 0 0 3em;
 	width: 100%;
 	font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
 
-	// blockquote {
-		box-sizing: border-box;
-		display: block;
-		-webkit-margin-before: 1em;
-		-webkit-margin-after: 1em;
-		-webkit-margin-start: 40px;
-		-webkit-margin-end: 40px;
-	// }
+		// box-sizing: border-box;
+		// display: block;
+		// -webkit-margin-before: 1em;
+		// -webkit-margin-after: 1em;
+		// -webkit-margin-start: 40px;
+		// -webkit-margin-end: 40px;
 }
 
 figure {
@@ -70,12 +70,12 @@ figure {
 
 	&.float-left {
 		float: left;
-		margin: 0 2em 2em;
+		margin: 0 2em;
 	}
 
 	&.float-right {
 		float: right;
-		margin: 0 2em 2em;
+		margin: 0 2em;
 	}
 
 	img {
@@ -107,7 +107,7 @@ figure {
 }
 
 &.col-5 {
-	width: $max_width / (5 / 12);
+	width: $max_width * (5/12);
 }
 
 &.col-6 {
@@ -115,23 +115,23 @@ figure {
 }
 
 &.col-7 {
-	width: $max_width / (7/12);
+	width: $max_width * (7/12);
 }
 
 &.col-8 {
-	width: $max_width / (8 / 12);
+	width: $max_width * (8/12);
 }
 
 &.col-9 {
-	width: $max_width / (9 / 12);
+	width: $max_width * (9/12);
 }
 
 &.col-10 {
-	width: $max_width / (10 / 12);
+	width: $max_width * (10/12);
 }
 
 &.col-11 {
-	width: $max_width / (11 / 12);
+	width: $max_width * (11/12);
 }
 
 // From https://tympanus.net/codrops/2014/05/22/inspiration-for-article-intro-effects/
