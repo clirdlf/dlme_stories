@@ -1,7 +1,14 @@
 require 'colorize'
 require 'fileutils'
+require 'html-proofer'
 
 task default: %w(convert:all)
+
+task :test do
+  sh "bundle exec jekyll build"
+  options = { :assume_extension => true }
+  HTMLProofer.check_directory("./_site", options).run
+end
 
 namespace :convert do
 
