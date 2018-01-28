@@ -24,11 +24,10 @@ layout: home
 	</figure>
 
   <figure class="effect-layla">
-		<!-- <img src="/images/toash-landing-480x360.jpg" alt="العربية: طوّاش مُستعد للغوص في المحرق."/> -->
-		<img src="/images/coming-son-250190_1280-landing-480x360.jpg" alt="Coming Soon"/>
+		<img src="/images/karachi_arab_dhows-landing-480x360.jpg" alt="Qatar’s Maritime History and Heritage"/>
 		<figcaption>
 			<h2>Qatar’s Maritime History and Heritage</h2>
-			<!-- <a href="{{ '/qatars-maritime-history-and-heritage/' }}">Read More</a> -->
+			<a href="{{ '/qatars-maritime-history-and-heritage/' }}">Read More</a>
 		</figcaption>
 	</figure>
 
