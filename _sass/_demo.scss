@@ -199,7 +199,8 @@ a {
 }
 
 a:hover, a:focus {
-	color: #69606b;
+	color: darken(#cf4a5c, 20%);
+	// color: #69606b;
 }
 
 .demo-4 a {
