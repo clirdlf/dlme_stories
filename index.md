@@ -11,7 +11,7 @@ layout: home
 		<img src="/images/bent-pyramid-thumb.jpg" alt="img01"/>
 		<figcaption>
 			<h2>The DLME and Cultural Heritage <span>Preservation</span></h2>
-			<a href="{{ '/how-the-digital-library-of-the-middle-east-aids-in-cultural-heritage-preservation/' }}">Read More</a>
+			<a href="{{ '/the-dlme-and-cultural-heritage-preservation/' }}">Read More</a>
 		</figcaption>
 	</figure>
 
@@ -32,10 +32,10 @@ layout: home
 	</figure>
 
 	<figure class="effect-layla">
-		<img src="/images/papyrus_fragments_from_the_bok_of_the_dead-landing-480x360.jpg" alt="Arab pearl-divers at work in the Persian Gulf"/>
+		<img src="/images/papyrus_fragments_from_the_bok_of_the_dead-landing-480x360.jpg" alt="Papyrus fragments from The book of the dead"/>
 		<figcaption>
-			<h2>Recovering <span>Papyri</span> with the Digital Library of the Middle East</h2>
-			<a href="{{ '/recovering-papyri-with-the-digital-library-of-the-middle-east/' }}">Read More</a>
+			<h2>Discovering <span>Papyri</span></h2>
+			<a href="{{ '/discovering-papyri/' }}">Read More</a>
 		</figcaption>
 	</figure>
 </div>
