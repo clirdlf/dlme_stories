@@ -8,9 +8,14 @@
 	 * <a href="mailto:foo@example.com">foo@example.com</a>
 	 */
 	// document.querySelectorAll('a[href^="mailto:"]').each(function() {
- //  	this.href = this.href.replace('(at)', '@').replace(/\(dot\)/g, '.');
- //  	this.innerHTML = this.href.replace('mailto:', '');
- // });
+ 	//  	this.href = this.href.replace('(at)', '@').replace(/\(dot\)/g, '.');
+ 	//  	this.innerHTML = this.href.replace('mailto:', '');
+ 	// });
+
+	$('.story-menu').click(function(){
+		var element = $(this).find('a').attr('href');
+		window.location = element;
+	});
 
 	// detect if IE : from http://stackoverflow.com/a/16657946
 	var ie = (function(){
