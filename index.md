@@ -10,7 +10,7 @@ layout: home
   <figure class="effect-layla">
 		<img src="/images/bent-pyramid-thumb.jpg" alt="img01"/>
 		<figcaption>
-			<h2>The DLME and Cultural Heritage Preservation</h2>
+			<h2>The DLME and <span>Cultural Heritage Preservation</span></h2>
 			<a href="{{ '/how-the-digital-library-of-the-middle-east-aids-in-cultural-heritage-preservation/' }}">Read More</a>
 		</figcaption>
 	</figure>
@@ -26,7 +26,7 @@ layout: home
   <figure class="effect-layla">
 		<img src="/images/karachi_arab_dhows-landing-480x360.jpg" alt="Qatar’s Maritime History and Heritage"/>
 		<figcaption>
-			<h2>Qatar’s Maritime History and Heritage</h2>
+			<h2>Qatar’s <span>Maritime History<span> and Heritage</h2>
 			<a href="{{ '/qatars-maritime-history-and-heritage/' }}">Read More</a>
 		</figcaption>
 	</figure>
