@@ -10,7 +10,7 @@ layout: home
   <figure class="effect-layla">
 		<img src="/images/bent-pyramid-thumb.jpg" alt="img01"/>
 		<figcaption>
-			<h2>How the Digital Library of the Middle East Aids in Cultural Heritage Preservation</h2>
+			<h2>The DLME and Cultural Heritage Preservation</h2>
 			<a href="{{ '/how-the-digital-library-of-the-middle-east-aids-in-cultural-heritage-preservation/' }}">Read More</a>
 		</figcaption>
 	</figure>
