@@ -34,7 +34,7 @@ layout: home
 	<figure class="effect-layla">
 		<img src="/images/papyrus_fragments_from_the_bok_of_the_dead-landing-480x360.jpg" alt="Papyrus fragments from The book of the dead"/>
 		<figcaption>
-			<h2>Identifying <span>Papyri</span> Identifying Papyri with the DLME</h2>
+			<h2>Identifying <span>Papyri</span> with the DLME</h2>
 			<a href="{{ '/identifying-papyri/' }}">Read More</a>
 		</figcaption>
 	</figure>
