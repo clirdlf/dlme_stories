@@ -1,10 +1,10 @@
 ---
 layout: exhibit
-title: Discovering Papyri
+title: Identifying Papyri
 background_url: /images/papyrus_fragments_from_the_bok_of_the_dead-cover-1200x800.jpg
 subline:
 author: Jacco Dieleman
-permalink: /discovering-papyri/
+permalink: /identifying-papyri/
 ---
 The Digital Library of the Middle East (DLME) works as an aggregator that enables searching for cultural artifacts from the Middle East across many online catalogs and platforms. Whereas I currently have to search a multitude of such catalogs of museums, libraries, and research projects to collect my data—a laborious procedure—the DLME is meant to serve as a one-stop-shop to quickly find manuscripts, art, music, footage, digitized newspapers, and other material kept in collections and archives around the world. Thanks to its user-friendly search function, it is easy to set search parameters to find what you are looking for. The search results are conveniently listed with images (where available) and basic metadata that include a link to the online catalog from which the record was harvested and where more detailed information can be found. Thus the DLME not only provides a great service to all who want to learn about the Middle East, but also serves as a web archive of the cultural heritage of the Middle East, making looting and illegal sale more difficult.
 
