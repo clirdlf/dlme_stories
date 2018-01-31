@@ -1,6 +1,6 @@
 ---
 layout: exhibit
-title: Identifying Papyri
+title: Identifying Papyri with the DLME
 background_url: /images/papyrus_fragments_from_the_bok_of_the_dead-cover-1200x800.jpg
 subline:
 author: Jacco Dieleman
