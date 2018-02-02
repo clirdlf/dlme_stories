@@ -71,7 +71,7 @@ One should also read ["Qatari History: Pivotal Moments Revealed in India Office 
 Long before the annual dhow festival, Qataris celebrated their connection with the sea through folk songs and dances, examples of which can be found in the QDL's [music collection](https://soundcloud.com/qatar-digital-library) and [video collection](https://www.youtube.com/channel/UCTj9zlBzdS4ofxkc3XtwBdQ).  Consider these examples:
 
 <div class='embed-container'>
-  <iframe title="Traditional ṣawt music playlist" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/50611513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+  <iframe  title="Traditional ṣawt music playlist" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/50611513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 </div>
 
 <figure>
