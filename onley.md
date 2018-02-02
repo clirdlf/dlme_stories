@@ -7,7 +7,7 @@ permalink: /qatars-maritime-history-and-heritage/
 author: James Onley
 ---
 
-Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on the Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from the [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
+Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on the Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
 
 <figure>
   <div class="js-gallery-content">
@@ -38,16 +38,16 @@ One of our first hits is this photograph from 1916 of an Arab (possibly Qatari) 
 
 Historians of Qatar's coastal geography, hydrography, and pearling industry will be interested in these maps:
 
-- A trigonometrical [map of Bidda (Doha) harbour](https://www.qdl.qa/en/archive/81055/vdc_100023663891.0x000002) in 1823
+- A trigonometrical [plan of Bidda (Doha) harbour](https://www.qdl.qa/en/archive/81055/vdc_100023663891.0x000002) in 1823
 -	A [plan of Doha harbour](https://www.qdl.qa/en/archive/81055/vdc_100043097172.0x00006f) from 1937
 -	A [map of pearling banks](https://www.qdl.qa/en/archive/81055/vdc_100023403859.0x000019) around Qatar from 1940
 
 And historians of Qatar's pearling industry and maritime trade will be interested in these reports:
 
-- A [report on pearl fisheries](https://www.qdl.qa/en/archive/81055/vdc_100000000193.0x0002e2) from 1904-18
-- A [report on pearl diving and the pearl trade](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x000054) from 1929-35
+- [Reports on pearl fisheries](https://www.qdl.qa/en/archive/81055/vdc_100000000193.0x0002e2) from 1904-18
+- [Reports on pearl diving and the pearl trade](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x000054) from 1929-35
 -	A [report on the maritime trade of the Gulf coast](https://www.qdl.qa/en/archive/81055/vdc_100000001524.0x0003bb) from 1863
--	A [report on the arrival of sailing craft and their cargo at Qatar](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x00006e) from 1932-37
+-	[Reports on the arrival of sailing craft and their cargo at Qatar](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x00006e) from 1932-37
 
 The QDL also has helpful introductory articles highlighting the range of its vast collections.  Imbedded in each article is illustrative material from the QDL: text, images, sound, and film.  All the material is on the QDL proper, except for sound and video recordings, which are hosted on dedicated QDL sections in SoundCloud and YouTube in order to promote wider access.  Presently, all of the material on the QDL is from the [British Library's India Office Records collection](https://www.qdl.qa/en/about), but more material will be added from other archives around the world in the near future.
 
