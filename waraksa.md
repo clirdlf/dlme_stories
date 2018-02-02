@@ -5,6 +5,7 @@ background_url: /images/katherine-hanlon-24210-cover-1200x800.jpg
 subline:
 author: Elizabeth A. Waraksa
 permalink: /piecing-together-the-ritual-use-of-egyptian-female-figurines/
+affiliation: 
 ---
 
 ## Introduction

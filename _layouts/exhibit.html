@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
-  <header class="header">
-    <ul class="grid">
-      <li class="story-menu"><h2><a href="/qatars-maritime-history-and-heritage/">Qatar’s Maritime History and Heritage</a></h2></li>
-      <li class="story-menu"><h2><a href="/the-dlme-and-cultural-heritage-preservation/">The DLME and Cultural Heritage Preservation</a></h2></li>
-      <li class="story-menu"><h2><a href="/piecing-together-the-ritual-use-of-egyptian-female-figurines/">Piecing Together the Ritual Use of Egyptian Female Figurines</a></h2></li>
-      <li class="story-menu"><h2><a href="/identifying-papyri/">Identifying Papyri with the DLME</a></h2></li>
-    </ul>
-    <div class="bg-img"><img src="{{ page.background_url }}" alt="Background Image" /></div>
-    <div class="title">
-      <h1>{{ page.title }}</h1>
-      <p>by <strong>{{ page.author }}</strong></p>
-    </div>
-  </header>
-  <button class="trigger" data-info="Start Reading"><span>Trigger</span></button>
-  <article class="content">
-    <div>
-      {{ content }}
-    </div>
-  </article>
+<header class="header">
+  <ul class="grid">
+    <li class="story-menu"><h2><a href="/qatars-maritime-history-and-heritage/">Qatar’s Maritime History and Heritage</a></h2></li>
+    <li class="story-menu"><h2><a href="/the-dlme-and-cultural-heritage-preservation/">The DLME and Cultural Heritage Preservation</a></h2></li>
+    <li class="story-menu"><h2><a href="/piecing-together-the-ritual-use-of-egyptian-female-figurines/">Piecing Together the Ritual Use of Egyptian Female Figurines</a></h2></li>
+    <li class="story-menu"><h2><a href="/identifying-papyri/">Identifying Papyri with the DLME</a></h2></li>
+  </ul>
+  <div class="bg-img"><img src="{{ page.background_url }}" alt="Background Image" /></div>
+  <div class="title">
+    <h1>{{ page.title }}</h1>
+    <p>by <strong>{{ page.author }}</strong></p>
+    <p>{{ page.affiliation }}</p>
+  </div>
+</header>
+<button class="trigger" data-info="Start Reading"><span>Trigger</span></button>
+<article class="content">
+  <div>
+    {{ content }}
+  </div>
+</article>

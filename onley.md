@@ -5,9 +5,10 @@ subline:
 background_url: /images/karachi_arab_dhows-cover-1200x800.jpg
 permalink: /qatars-maritime-history-and-heritage/
 author: James Onley
+affiliation: Director of Historical Research and Partnerships<br> <strong>Qatar National Library</strong>
 ---
 
-Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on the Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
+Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from the [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
 
 <figure>
   <div class="js-gallery-content">
