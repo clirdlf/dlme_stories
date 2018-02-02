@@ -1,6 +1,112 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,800|Lora:400italic|Playfair+Display:700|Poppins:700);
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 
 @import 'normalize';
 @import 'demo';
 @import 'component';
 @import 'set1';
+
+footer {
+  background-color: #292825;
+  display: block;
+  position: relative;
+  font-size: 1em;
+  font-weight: 400;
+  font-family: 'Raleway', sans-serif;
+
+  .row {
+    padding: 0 0 3em;
+    margin: 0 auto;
+  }
+
+  address {
+    line-height: 1.42857143;
+    font-style: normal;
+  }
+
+  h2 {
+    color: #fff;
+    font-size: 23px;
+    line-height: 32px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+  }
+
+  p, address {
+    color: rgb(140,149,151);
+    font-size: 16px;
+  }
+
+  .bottom-footer {
+    margin-top: 50px;
+    padding: 30px 0;
+    text-align: center;
+    background-color: #242320;
+
+    .bottom-copyright{
+      color: #fff;
+    }
+  }
+
+  a {
+    line-height: 36px;
+    color: #8c9597;
+
+    &:hover {
+      color: #8c9597;
+      text-decoration: underline;
+    }
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: "Lato", sans-serif;
+
+    li {
+      width: 100%;
+      padding-left: 20px;
+      position: relative;
+      line-height: 38px;
+      border: 0;
+      display: inline;
+      margin-right: .5em;
+
+      &:before {
+        content: "\f105";
+        font-family: "FontAwesome";
+        color: #8c979e;
+        position: absolute;
+        left: 0;
+        line-height: 38px;
+      }
+
+
+
+      .screen-reader-text {
+        clip: rect(1px,1px,1px,1px);
+        position: absolute!important;
+        height: 1px;
+        width: 1px;
+        overflow: hidden;
+        word-wrap: normal!important;
+      }
+    }
+  }
+
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 900px;
+  margin: 0 auto;
+  // margin-right: -15px;
+  // margin-left: -15px;
+}

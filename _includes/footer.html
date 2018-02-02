@@ -1,19 +1,64 @@
-<footer>
+<footer class="footer">
+    <div class="row">
+        <div class="col-8">
+            <h2>Support and Service</h2>
+            <p>
+                We gratefully acknowledge generous support by the Andrew W. Mellon and Whiting Foundations for planning and prototyping of the DLME. The efforts of CLIR/DLF and our international partners are offered in service to the vital cultures and living people
+                of the Middle East.
+            </p>
+            <h2>Social</h2>
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/Council-on-Library-and-Information-Resources-CLIR-300100435096/" class="fa fa-facebook" target="_blank"><span class="screen-reader-text">View Council-on-Library-and-Information-Resources-CLIR-300100435096/’s profile on Facebook</span></a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/digilibraryme/" class="fa fa-twitter" target="_blank"><span class="screen-reader-text">View digilibraryme’s profile on Twitter</span></a>
+                </li>
+                <li><a href="https://www.linkedin.com/in/groups/3387265/" class="fa fa-linkedin" target="_blank"><span class="screen-reader-text">View groups/3387265’s profile on LinkedIn</span></a>
+                </li>
+                <li>
+                    <a href="https://github.com/sul-dlss/dlme/" class="fa fa-github" target="_blank">
+                        <span class="screen-reader-text">View sul-dlss/dlme’s profile on GitHub</span>
+                    </a>
+                </li>
+                <li><a href="https://www.youtube.com/user/DLFCLIR/" class="fa fa-youtube" target="_blank"><span class="screen-reader-text">View DLFCLIR’s profile on YouTube</span></a>
+                </li>
+            </ul>
+        </div>
+        <div class="col-4">
+            <h2>Support and Service</h2>
+            <address>
+                CLIR/DLF<br>
+                1707 L St. NW,<br>
+                Suite 650 <br>
+                Washington, DC 20036 <br>
+                <abbr title="Phone">P</abbr>  (202) 939-4750 <br>
+            </address>
+        </div>
+    </div>
+    <div class="bottom-footer">
+        <div class="container">
+            <p class="copyright">
+                <span class="bottom-copyright" data-customizer="copyright-credit"><a href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by/4.0/80x15.png" scale="0"></a><br>Except where otherwise noted, this work is made available under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</span>
+            </p>
+        </div>
+    </div>
 </footer>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/classie/1.0.1/classie.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
-<script src="{{ "/assets/js/scripts.js"| prepend: site.baseurl }}"></script>
+<script src="{{ " /assets/js/scripts.js "| prepend: site.baseurl }}"></script>
 
 <script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebPage",
-  "name": "{{ page.title }}",
-  "description": "{{ page.content | strip_html | xml_escape | truncate: 200 | strip }}",
-  "publisher": {
-    "@type": "EducationalOrganization",
-    "name": "Digital Library of the Middle East"
-  },
-  "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
-}
+    {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "{{ page.title }}",
+        "description": "{{ page.content | strip_html | xml_escape | truncate: 200 | strip }}",
+        "publisher": {
+            "@type": "EducationalOrganization",
+            "name": "Digital Library of the Middle East"
+        },
+        "license": "https://creativecommons.org/licenses/by-sa/4.0/legalcode"
+    }
 </script>
