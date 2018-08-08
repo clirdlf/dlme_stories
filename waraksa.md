@@ -5,9 +5,10 @@ background_url: /images/katherine-hanlon-24210-cover-1200x800.jpg
 subline:
 author: Elizabeth A. Waraksa
 permalink: /piecing-together-the-ritual-use-of-egyptian-female-figurines/
+affiliation: 
 ---
 
-## Intro
+## Introduction
 
 [Figurines of nude females](https://escholarship.org/uc/item/4dg0d57b) are known from most periods of Pharaonic Egyptian history and occur in a variety of archaeological contexts, from houses, temples, and tombs in the Nile Valley to cemeteries in the western oases, mining sites in the Eastern Desert and Sinai Peninsula, and Nubian forts.
 

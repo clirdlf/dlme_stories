@@ -5,9 +5,10 @@ subline:
 background_url: /images/karachi_arab_dhows-cover-1200x800.jpg
 permalink: /qatars-maritime-history-and-heritage/
 author: James Onley
+affiliation: Director of Historical Research and Partnerships<br> <strong>Qatar National Library</strong>
 ---
 
-Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on the Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from the [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
+Qatar is perhaps best known today for its national airline, Qatar Airways, but, historically, it was the sea, not the air, that connected Qataris with the wider world.  Then, as now, most Qataris lived along the coast, their towns facing the sea and the far shores of the Gulf and the Indian Ocean beyond. It was the sea from which most Qataris derived their livelihoods, through overseas trade, fishing, and pearl diving.  Before the 1930s, pearling dominated Qatar's pre-oil economy, employing nearly half of all Qataris.   This deep connection with the sea had a profound influence on Qatar's history, heritage, and identity.  Today, this connection is celebrated at Qatar's annual dhow festival every November &ndash; the only such festival in the world.  Here are some illustrations from the [6th Traditional Dhow Festival in 2016](http://www.katara.net/en/whats-on/events/Festivals/The%206th%20Traditional%20Dhow%20Festival/2211):
 
 <figure>
   <div class="js-gallery-content">
@@ -38,16 +39,16 @@ One of our first hits is this photograph from 1916 of an Arab (possibly Qatari) 
 
 Historians of Qatar's coastal geography, hydrography, and pearling industry will be interested in these maps:
 
-- A trigonometrical [map of Bidda (Doha) harbour](https://www.qdl.qa/en/archive/81055/vdc_100023663891.0x000002) in 1823
+- A trigonometrical [plan of Bidda (Doha) harbour](https://www.qdl.qa/en/archive/81055/vdc_100023663891.0x000002) in 1823
 -	A [plan of Doha harbour](https://www.qdl.qa/en/archive/81055/vdc_100043097172.0x00006f) from 1937
 -	A [map of pearling banks](https://www.qdl.qa/en/archive/81055/vdc_100023403859.0x000019) around Qatar from 1940
 
 And historians of Qatar's pearling industry and maritime trade will be interested in these reports:
 
-- A [report on pearl fisheries](https://www.qdl.qa/en/archive/81055/vdc_100000000193.0x0002e2) from 1904-18
-- A [report on pearl diving and the pearl trade](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x000054) from 1929-35
+- [Reports on pearl fisheries](https://www.qdl.qa/en/archive/81055/vdc_100000000193.0x0002e2) from 1904-18
+- [Reports on pearl diving and the pearl trade](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x000054) from 1929-35
 -	A [report on the maritime trade of the Gulf coast](https://www.qdl.qa/en/archive/81055/vdc_100000001524.0x0003bb) from 1863
--	A [report on the arrival of sailing craft and their cargo at Qatar](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x00006e) from 1932-37
+-	[Reports on the arrival of sailing craft and their cargo at Qatar](https://www.qdl.qa/en/archive/81055/vdc_100000000282.0x00006e) from 1932-37
 
 The QDL also has helpful introductory articles highlighting the range of its vast collections.  Imbedded in each article is illustrative material from the QDL: text, images, sound, and film.  All the material is on the QDL proper, except for sound and video recordings, which are hosted on dedicated QDL sections in SoundCloud and YouTube in order to promote wider access.  Presently, all of the material on the QDL is from the [British Library's India Office Records collection](https://www.qdl.qa/en/about), but more material will be added from other archives around the world in the near future.
 
@@ -70,18 +71,20 @@ One should also read ["Qatari History: Pivotal Moments Revealed in India Office 
 Long before the annual dhow festival, Qataris celebrated their connection with the sea through folk songs and dances, examples of which can be found in the QDL's [music collection](https://soundcloud.com/qatar-digital-library) and [video collection](https://www.youtube.com/channel/UCTj9zlBzdS4ofxkc3XtwBdQ).  Consider these examples:
 
 <div class='embed-container'>
-<figure>
-<iframe title="Traditional ṣawt music playlist" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/50611513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
-  <figcaption>Traditional ṣawt music playlist</figcaption>
-</figure>
+  <iframe  title="Traditional ṣawt music playlist" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/50611513&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 </div>
 
+<figure>
+  <figcaption>Traditional ṣawt music playlist</figcaption>
+</figure>
+
 <div class='embed-container'>
-  <figure>
   <iframe title="Sea music from Qatar, Part 2" src="https://www.youtube.com/embed/0phmQhoTa7c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <figcaption>Sea music from Qatar, Part 2</figcaption>
-  </figure>
 </div>
+
+<figure>
+  <figcaption>Sea music from Qatar, Part 2</figcaption>
+</figure>
 
 Researchers can learn more about this aspect of Qatari and Gulf Arab culture by reading the QDL's articles on the subject by Rolf Killius:
 
@@ -92,4 +95,4 @@ Researchers can learn more about this aspect of Qatari and Gulf Arab culture by 
 - ["A Rich Culture Expressed in Music - Musical Instruments in the Upper Gulf Region"](https://www.qdl.qa/en/rich-culture-expressed-music-musical-instruments-upper-gulf-region)
 - ["Interlocking Patterns Meet Arabic Poetry: Musical Genres in the Upper Gulf Region"](https://www.qdl.qa/en/interlocking-patterns-meet-arabic-poetry-musical-genres-upper-gulf-region)
 
-The QNL offers the public unprecedented access to the history and heritage of the Gulf. In just three years of existence, it has generated a groundswell of interest, leading to a boom in exciting new scholarship on the region.  Federating our records with the DLME will allow us to bring this fascinating heritage to a wider audience and introduce more people to the QDL's collections. Come discover the QNL for yourself.  Fascinating discoveries await you.
+The QDL offers the public unprecedented access to the history and heritage of the Gulf. In just three years of existence, it has generated a groundswell of interest, leading to a boom in exciting new scholarship on the region.  Federating our records with the DLME will allow us to bring this fascinating heritage to a wider audience and introduce more people to the QDL's collections. Come discover the QDL for yourself.  Fascinating discoveries await you.
