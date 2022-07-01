@@ -1,6 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+.yarn/
 .env
 node_modules
 originals
